@@ -14,7 +14,7 @@ Although the theory indicates that parallel execution should be more efficient i
 
 ---
 
-## **Project Features
+## **Project Features**
 
 - **Random Connected Graph Generation**:
   - The 'generateGraph' function generates connected graphs, configuring the edges, vertices and weights in a pseudo-random way, ensuring minimal connectivity.
